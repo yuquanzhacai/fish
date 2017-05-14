@@ -1,0 +1,35 @@
+*{
+	padding:0px;
+	margin:0px;
+	text-align: left;
+}
+ul{
+	list-style-type: none;
+}
+.menu{
+	margin:auto;
+	width:1005px;
+	background:url(../image/bg.gif)top no-repeat;
+}
+.menu ul{
+	width:1005px;
+	margin:auto;
+	height:75px;
+	line-height:75px;
+	vertical-align:middle
+}
+.menu li{
+	float: left ;
+	padding:0px 15px;
+}
+.menu a{
+	color:#fff;
+	text-decoration:none;
+}
+.menu a:hover{
+	color:#b9f605;
+}
+.menu.special{
+	colo:italic;
+}
+还差一个li怎么设置
